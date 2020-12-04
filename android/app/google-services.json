@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "480148628741",
+    "firebase_url": "https://fidelity-69021.firebaseio.com",
+    "project_id": "fidelity-69021",
+    "storage_bucket": "fidelity-69021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480148628741:android:a9cd6cd3483b769f79036c",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480148628741-hi30s54hj5n2koqhab0b5uqqkuqakond.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeDiI3GDZmKsXmLK-a_kIxs31Ao4MTRt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480148628741-hi30s54hj5n2koqhab0b5uqqkuqakond.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
